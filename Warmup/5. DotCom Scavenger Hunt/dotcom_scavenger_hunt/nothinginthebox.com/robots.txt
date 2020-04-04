@@ -1,0 +1,6 @@
+
+sitemap: http://cdn.attracta.com/sitemap/654996.xml.gz
+#Wildcard robots.txt agent (ask all bots to crawl slowly but still index everything).
+User-agent: *
+Crawl-delay: 1
+Disallow:
