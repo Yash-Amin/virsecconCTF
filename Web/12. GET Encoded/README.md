@@ -1,6 +1,7 @@
 # GET Encoded
 
 We have this website that says `Machine hunts for more than humand do`, Nothing else. But the challenge's name is GET Encode, there must be something to do with the query parameters. 
+
 ![Index](1.png)
 
 So I sent request to `/?aaa=bbb` and in the response I got error message that function `aaa` was undefined.
