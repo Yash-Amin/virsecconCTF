@@ -43,6 +43,7 @@
 * Warmup
 
     * [Read The Rules](Warmup/1.%20Read%20The%20Rules/)
+    * [Puppo](Warmup/4.%20Puppo/)
     * [Believe Your Eyes](Warmup/2.%20Believe%20Your%20Eyes/)
     * [Yarn](Warmup/3.%20Yarn/)
     * [DotCom Scavenger Hunt](Warmup/5.%20DotCom%20Scavenger%20Hunt/)
