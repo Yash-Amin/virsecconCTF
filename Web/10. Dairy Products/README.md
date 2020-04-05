@@ -4,6 +4,7 @@ On the main page, there was huge label
 > ## git milk?
 
 So before trying to do anything, I opened `http://142.93.3.19:50008/.git`
+![Git](1.png)
 
 It was a git directory, So we can download it and get all history!
 
@@ -19,5 +20,6 @@ After downloading the directory, I have used this commad to retrive the flag.
 * for all commits, we can use `git show <commit_id>` to get changes of that commit.
 * And we know that the flag is in the format of `[A-Z]*{.*}` we can use grep to get the flag!
 
+![Flag](2.png)
 
 > ### LLS{you_gitm_gotm_good_partner}
